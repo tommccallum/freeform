@@ -1,0 +1,14 @@
+{
+  "index": {
+    "filetypes": [ "txt", "md", "html" ]
+  },
+  "bookmarks": [{
+    "location": null
+  }],
+  "templates": {
+    "directory": "${workspace}/templates"
+  },
+  "notes_locations": [],
+  "dependencies": {
+  }
+}
